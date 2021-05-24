@@ -1,0 +1,10 @@
+# ignore following files #
+*.zip
+*.csv
+*.doc
+*.com
+*.xlsx
+
+# done #
+
+
